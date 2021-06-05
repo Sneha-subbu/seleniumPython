@@ -42,7 +42,9 @@ class Test_carWale(BaseTest):
             log.logger.info("Car and Price details for BMW cars")
         elif carbrand == ["TATA"]:
             home.gotoNewCars().selectTata()
+            log.logger.info("selecting Tata brand car")
             carBase.carNameandPrice()
+            log.logger.info("Car and Price details for Tata cars")
         time.sleep(3)
 
 
