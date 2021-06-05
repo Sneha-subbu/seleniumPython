@@ -1,0 +1,166 @@
+{
+  "7458e4c9800e2770a71f0b8debdb2752" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c83eddf76487e032",
+      "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/c83eddf76487e032",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1622881755470,
+        "stop" : 1622881755470,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f69d7bf31db3a2ee35513d6e0a6d5e09" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25068330c8315d41",
+      "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/25068330c8315d41",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1622881755466,
+        "stop" : 1622881755466,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d9f6fc1d55273d3da6d7a5e0ceb27e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b507f6f9ed2e4381",
+      "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/b507f6f9ed2e4381",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622881861340,
+        "stop" : 1622881877791,
+        "duration" : 16451
+      }
+    } ]
+  },
+  "46add1d4fd2d6799a401452e2b2afceb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc48c2fef7536218",
+      "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/fc48c2fef7536218",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+      "time" : {
+        "start" : 1622881843159,
+        "stop" : 1622881845150,
+        "duration" : 1991
+      }
+    } ]
+  },
+  "65264d19c90bf60231979611c9d6a0ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9a0984544bb45551",
+      "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/9a0984544bb45551",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622881783687,
+        "stop" : 1622881795903,
+        "duration" : 12216
+      }
+    } ]
+  },
+  "1f24cc2a7cddb15c27faf77d2a8ba283" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b41ba9c95d8e1d33",
+      "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/b41ba9c95d8e1d33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622881808157,
+        "stop" : 1622881822056,
+        "duration" : 13899
+      }
+    } ]
+  },
+  "cc1a712b48001fc6d90bf0aa95d0c690" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b1d79830a42acb7",
+      "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/6b1d79830a42acb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622881892951,
+        "stop" : 1622881902337,
+        "duration" : 9386
+      }
+    } ]
+  },
+  "d9387b935ee5e7b64a8ce63007610035" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "271dd14ce8969edd",
+      "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/271dd14ce8969edd",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+      "time" : {
+        "start" : 1622881765422,
+        "stop" : 1622881770428,
+        "duration" : 5006
+      }
+    } ]
+  }
+}

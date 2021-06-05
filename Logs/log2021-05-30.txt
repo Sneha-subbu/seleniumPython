@@ -1,0 +1,234 @@
+2021-05-30 02:13:20,042 - test_Registration.py:[16] - [INFO] - test do singup started
+2021-05-30 02:14:21,852 - test_Registration.py:[16] - [INFO] - test do singup started
+2021-05-30 02:16:42,969 - test_Registration.py:[16] - [INFO] - test do singup started
+2021-05-30 02:18:00,084 - test_Registration.py:[16] - [INFO] - test do singup started
+2021-05-30 02:18:18,233 - test_Registration.py:[16] - [INFO] - test do singup started
+2021-05-30 02:22:20,413 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 02:22:37,605 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 02:31:07,643 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 02:31:07,851 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 02:31:08,035 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 02:31:08,211 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 02:31:08,283 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 02:31:08,475 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 02:31:08,891 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 02:31:09,202 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 02:31:09,346 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 02:31:09,346 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 02:31:26,164 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 02:31:26,258 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 02:31:26,293 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 02:31:26,347 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 02:31:26,508 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 02:31:26,566 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 02:31:26,622 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 02:31:26,677 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 02:31:27,057 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 02:31:27,057 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 02:35:40,793 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 02:35:41,058 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 02:35:41,220 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 02:35:41,421 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 02:35:41,757 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 02:35:42,006 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 02:35:42,123 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 02:35:42,293 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 02:35:42,403 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 02:35:42,403 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 02:35:58,319 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 02:35:58,487 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 02:35:58,549 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 02:35:58,666 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 02:35:58,784 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 02:35:59,095 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 02:35:59,148 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 02:35:59,209 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 02:35:59,487 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 02:35:59,489 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 03:15:10,684 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 03:15:10,953 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 03:15:11,154 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 03:15:11,482 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 03:15:11,570 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 03:15:11,722 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 03:15:11,857 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 03:15:12,001 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 03:15:12,121 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 03:15:12,121 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 03:15:27,525 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 03:15:27,625 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 03:15:27,718 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 03:15:27,768 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 03:15:27,942 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 03:15:27,972 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 03:15:28,053 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 03:15:28,206 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 03:15:28,515 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 03:15:28,515 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 03:23:04,369 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 03:23:04,617 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 03:23:04,817 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 03:23:05,185 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 03:23:05,257 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 03:23:05,417 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 03:23:05,537 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 03:23:05,696 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 03:23:05,891 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 03:23:05,891 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 03:23:21,182 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 03:23:21,380 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 03:23:21,462 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 03:23:21,638 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 03:23:21,893 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 03:23:21,954 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 03:23:22,035 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 03:23:22,102 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 03:23:22,531 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 03:23:22,531 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 09:16:34,293 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 09:16:34,597 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 09:16:34,825 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 09:16:35,080 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 09:16:35,192 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 09:16:35,596 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 09:16:35,779 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 09:16:35,961 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 09:16:36,093 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 09:16:36,094 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 09:16:56,048 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 09:16:56,392 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 09:16:56,567 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 09:16:56,744 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 09:16:57,026 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 09:16:57,099 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 09:16:57,174 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 09:16:57,229 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 09:16:57,623 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 09:16:57,624 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 10:04:11,267 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 10:04:11,576 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 10:04:11,760 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 10:04:11,969 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 10:04:12,086 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 10:04:12,282 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 10:04:12,683 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 10:04:12,855 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 10:04:13,052 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 10:04:13,052 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 10:04:29,781 - test_Registration.py:[18] - [INFO] - test do singup started
+2021-05-30 10:04:29,978 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 10:04:30,175 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 10:04:30,264 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 10:04:30,372 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 10:04:30,537 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 10:04:30,585 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 10:04:30,694 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 10:04:31,217 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 10:04:31,217 - test_Registration.py:[21] - [INFO] - test do singup successfully done
+2021-05-30 10:53:46,920 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 10:54:06,090 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 10:54:34,712 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 10:54:35,178 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 10:54:35,371 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 10:54:35,576 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 10:54:35,663 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 10:54:35,877 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 10:54:36,034 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 10:54:36,212 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 10:54:36,343 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 10:54:36,344 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 10:54:53,450 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 10:54:53,583 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 10:54:53,767 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 10:54:53,922 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 10:54:54,021 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 10:54:54,056 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 10:54:54,102 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 10:54:54,156 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 10:54:54,788 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 10:54:54,789 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 10:58:13,626 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 10:58:13,929 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 10:58:14,112 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 10:58:14,298 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 10:58:14,396 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 10:58:14,605 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 10:58:14,780 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 10:58:14,972 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 10:58:15,162 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 10:58:15,162 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 10:58:32,256 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 10:58:32,343 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 10:58:32,465 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 10:58:32,670 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 10:58:32,773 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 10:58:32,822 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 10:58:32,861 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 10:58:32,941 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 10:58:33,512 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 10:58:33,513 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 11:31:31,171 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 11:31:31,584 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 11:31:31,782 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 11:31:32,010 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 11:31:32,116 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 11:31:32,377 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 11:31:32,597 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 11:31:32,770 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 11:31:33,098 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 11:31:33,099 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 11:32:04,040 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 11:32:04,699 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 11:32:04,927 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 11:32:05,151 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 11:32:05,265 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 11:32:05,888 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 11:32:06,063 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 11:32:06,317 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 11:32:06,465 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 11:32:06,466 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 12:06:03,119 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 12:06:03,451 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 12:06:03,871 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 12:06:04,075 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 12:06:04,167 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 12:06:04,349 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 12:06:04,500 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 12:06:04,660 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 12:06:04,815 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 12:06:04,816 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 12:06:21,557 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 12:06:21,708 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 12:06:21,949 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 12:06:22,094 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 12:06:22,199 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 12:06:22,248 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 12:06:22,286 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 12:06:22,341 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 12:06:22,852 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 12:06:22,853 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 12:12:09,499 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 12:13:56,997 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 12:14:15,989 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 12:14:57,533 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 12:14:57,831 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 12:14:58,375 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 12:14:58,705 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 12:14:58,801 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 12:14:59,030 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 12:14:59,213 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 12:14:59,393 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 12:14:59,532 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 12:14:59,532 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 12:15:16,828 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 12:15:16,975 - BasePage.py:[38] - [INFO] - input value in field :-name_CSSvalues entered as--ritesh
+2021-05-30 12:15:17,106 - BasePage.py:[38] - [INFO] - input value in field :-phone_XPATHvalues entered as--9980930473
+2021-05-30 12:15:17,209 - BasePage.py:[38] - [INFO] - input value in field :-email_XPATHvalues entered as--ritesh@gmail.com
+2021-05-30 12:15:17,390 - BasePage.py:[52] - [INFO] - selecting value in field :-country_XPATHvalues selected--India
+2021-05-30 12:15:17,442 - BasePage.py:[38] - [INFO] - input value in field :-city_XPATHvalues entered as--bangalore
+2021-05-30 12:15:17,534 - BasePage.py:[38] - [INFO] - input value in field :-username_XPATHvalues entered as--ritesh.kumar
+2021-05-30 12:15:17,571 - BasePage.py:[38] - [INFO] - input value in field :-password_XPATHvalues entered as--uuuujujuj
+2021-05-30 12:15:17,945 - BasePage.py:[28] - [INFO] - element clicking on :-submit_XPATH
+2021-05-30 12:15:17,945 - test_Registration.py:[25] - [INFO] - test do singup successfully done
+2021-05-30 15:21:00,932 - test_Registration.py:[19] - [INFO] - test do singup started
+2021-05-30 15:21:18,984 - test_Registration.py:[19] - [INFO] - test do singup started

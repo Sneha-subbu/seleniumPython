@@ -1,0 +1,191 @@
+{
+  "uid" : "55078ae1bd3e247a",
+  "name" : "test_NewCar[chrome-carbrand0]",
+  "fullName" : "test_carwale.Test_carWale#test_NewCar",
+  "historyId" : "d9387b935ee5e7b64a8ce63007610035",
+  "time" : {
+    "start" : 1622882160820,
+    "stop" : 1622882166327,
+    "duration" : 5507
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+  "statusTrace" : "self = <Tests.test_carwale.Test_carWale object at 0x000002BAD14AEE20>\ncarbrand = ['Hundai']\n\n    @pytest.mark.parametrize(\"carbrand\", dataProvider.get_data(\"Cars\"))\n    def test_NewCar(self, carbrand):\n        log.logger.info(\"selecting new car brand\")\n        home = HomePage(self.driver)\n        carBase = CarBasePage(self.driver)\n        #print((\"*****car brand is****\", carbrand)\n        # function chaining- return object of classname in main object Page\n        if carbrand == [\"Hundai\"]:\n            home.gotoNewCars().selectHundai()\n            title= self.driver.title\n>           assert title==\"Gmail\",\"title doesnt match,current page title is:-\"+str(title)\nE           AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nE           assert 'New Cars in ...ars - CarWale' == 'Gmail'\nE             - Gmail\nE             + New Cars in India 2021 | New Car Information | Best New Cars - CarWale\n\ntest_carwale.py:34: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_browser",
+    "time" : {
+      "start" : 1622882152500,
+      "stop" : 1622882160818,
+      "duration" : 8318
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1622882160819,
+      "stop" : 1622882160819,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+    "statusTrace" : "self = <Tests.test_carwale.Test_carWale object at 0x000002BAD14AEE20>\ncarbrand = ['Hundai']\n\n    @pytest.mark.parametrize(\"carbrand\", dataProvider.get_data(\"Cars\"))\n    def test_NewCar(self, carbrand):\n        log.logger.info(\"selecting new car brand\")\n        home = HomePage(self.driver)\n        carBase = CarBasePage(self.driver)\n        #print((\"*****car brand is****\", carbrand)\n        # function chaining- return object of classname in main object Page\n        if carbrand == [\"Hundai\"]:\n            home.gotoNewCars().selectHundai()\n            title= self.driver.title\n>           assert title==\"Gmail\",\"title doesnt match,current page title is:-\"+str(title)\nE           AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nE           assert 'New Cars in ...ars - CarWale' == 'Gmail'\nE             - Gmail\nE             + New Cars in India 2021 | New Car Information | Best New Cars - CarWale\n\ntest_carwale.py:34: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a89b01e3add4adfb",
+      "name" : "log",
+      "source" : "a89b01e3add4adfb.txt",
+      "type" : "text/plain",
+      "size" : 613
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "get_browser::0",
+    "time" : {
+      "start" : 1622882168449,
+      "stop" : 1622882171235,
+      "duration" : 2786
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1622882167414,
+      "stop" : 1622882168446,
+      "duration" : 1032
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8181d95270860b18",
+      "name" : "dologin",
+      "source" : "8181d95270860b18.png",
+      "type" : "image/png",
+      "size" : 80019
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_carWale"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4F5BNAL"
+  }, {
+    "name" : "thread",
+    "value" : "4380-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carbrand",
+    "value" : "['Hundai']"
+  }, {
+    "name" : "get_browser",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d86f6740a7b8873",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+      "time" : {
+        "start" : 1622881765422,
+        "stop" : 1622881770428,
+        "duration" : 5006
+      }
+    }, {
+      "uid" : "1a3f70afd7d9bc53",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+      "time" : {
+        "start" : 1622880613695,
+        "stop" : 1622880616063,
+        "duration" : 2368
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "271dd14ce8969edd",
+        "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure/#testresult/271dd14ce8969edd",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+        "time" : {
+          "start" : 1622881765422,
+          "stop" : 1622881770428,
+          "duration" : 5006
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "55078ae1bd3e247a.json",
+  "parameterValues" : [ "['Hundai']", "'chrome'" ]
+}

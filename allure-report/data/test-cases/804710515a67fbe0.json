@@ -1,0 +1,146 @@
+{
+  "uid" : "804710515a67fbe0",
+  "name" : "test_NewCar[firefox-carbrand0]",
+  "fullName" : "test_carwale.Test_carWale#test_NewCar",
+  "historyId" : "46add1d4fd2d6799a401452e2b2afceb",
+  "time" : {
+    "start" : 1622881843159,
+    "stop" : 1622881845150,
+    "duration" : 1991
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+  "statusTrace" : "self = <Tests.test_carwale.Test_carWale object at 0x0000020A1ABF51F0>\ncarbrand = ['Hundai']\n\n    @pytest.mark.parametrize(\"carbrand\", dataProvider.get_data(\"Cars\"))\n    def test_NewCar(self, carbrand):\n        log.logger.info(\"selecting new car brand\")\n        home = HomePage(self.driver)\n        carBase = CarBasePage(self.driver)\n        #print((\"*****car brand is****\", carbrand)\n        # function chaining- return object of classname in main object Page\n        if carbrand == [\"Hundai\"]:\n            home.gotoNewCars().selectHundai()\n            title= self.driver.title\n>           assert title==\"Gmail\",\"title doesnt match,current page title is:-\"+str(title)\nE           AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nE           assert 'New Cars in ...ars - CarWale' == 'Gmail'\nE             - Gmail\nE             + New Cars in India 2021 | New Car Information | Best New Cars - CarWale\n\ntest_carwale.py:34: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_browser",
+    "time" : {
+      "start" : 1622881825123,
+      "stop" : 1622881843157,
+      "duration" : 18034
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1622881843158,
+      "stop" : 1622881843158,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nassert 'New Cars in ...ars - CarWale' == 'Gmail'\n  - Gmail\n  + New Cars in India 2021 | New Car Information | Best New Cars - CarWale",
+    "statusTrace" : "self = <Tests.test_carwale.Test_carWale object at 0x0000020A1ABF51F0>\ncarbrand = ['Hundai']\n\n    @pytest.mark.parametrize(\"carbrand\", dataProvider.get_data(\"Cars\"))\n    def test_NewCar(self, carbrand):\n        log.logger.info(\"selecting new car brand\")\n        home = HomePage(self.driver)\n        carBase = CarBasePage(self.driver)\n        #print((\"*****car brand is****\", carbrand)\n        # function chaining- return object of classname in main object Page\n        if carbrand == [\"Hundai\"]:\n            home.gotoNewCars().selectHundai()\n            title= self.driver.title\n>           assert title==\"Gmail\",\"title doesnt match,current page title is:-\"+str(title)\nE           AssertionError: title doesnt match,current page title is:-New Cars in India 2021 | New Car Information | Best New Cars - CarWale\nE           assert 'New Cars in ...ars - CarWale' == 'Gmail'\nE             - Gmail\nE             + New Cars in India 2021 | New Car Information | Best New Cars - CarWale\n\ntest_carwale.py:34: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "85b071fc57819686",
+      "name" : "log",
+      "source" : "85b071fc57819686.txt",
+      "type" : "text/plain",
+      "size" : 694
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "get_browser::0",
+    "time" : {
+      "start" : 1622881845584,
+      "stop" : 1622881848717,
+      "duration" : 3133
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1622881845159,
+      "stop" : 1622881845580,
+      "duration" : 421
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e6eb044091823cbc",
+      "name" : "dologin",
+      "source" : "e6eb044091823cbc.png",
+      "type" : "image/png",
+      "size" : 20089
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('log_on_failure', 'get_browser')"
+  }, {
+    "name" : "suite",
+    "value" : "test_carwale"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_carWale"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4F5BNAL"
+  }, {
+    "name" : "thread",
+    "value" : "12396-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_carwale"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "carbrand",
+    "value" : "['Hundai']"
+  }, {
+    "name" : "get_browser",
+    "value" : "'firefox'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('log_on_failure', 'get_browser')" ]
+  },
+  "source" : "804710515a67fbe0.json",
+  "parameterValues" : [ "['Hundai']", "'firefox'" ]
+}

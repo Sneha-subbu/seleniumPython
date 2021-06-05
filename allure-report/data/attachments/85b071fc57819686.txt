@@ -1,0 +1,8 @@
+INFO     WDM:logger.py:12 ====== WebDriver manager ======
+INFO     WDM:logger.py:12 Getting latest mozilla release info for v0.29.1
+INFO     WDM:logger.py:12 Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-win64.zip
+INFO     WDM:logger.py:12 Driver has been saved in cache [C:\Users\ACER\.wdm\drivers\geckodriver\win64\v0.29.1]
+INFO     Tests.test_carwale:test_carwale.py:26 selecting new car brand
+INFO     Pages.BasePage:BasePage.py:73 moving to element :-newcar_XPATH
+INFO     Pages.BasePage:BasePage.py:31 element clicking on :-findnewcar_XPATH
+INFO     Pages.BasePage:BasePage.py:31 element clicking on :-hundai_XPATH

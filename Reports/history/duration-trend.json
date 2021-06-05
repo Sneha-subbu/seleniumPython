@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/job/PythonPageObject/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 146871
+  }
+} ]

@@ -1,0 +1,29 @@
+INFO     WDM:logger.py:12 
+
+INFO     WDM:logger.py:12 ====== WebDriver manager ======
+INFO     WDM:logger.py:12 Current google-chrome version is 91.0.4472
+INFO     WDM:logger.py:12 Get LATEST driver version for 91.0.4472
+INFO     WDM:logger.py:12 Driver [C:\Users\ACER\.wdm\drivers\chromedriver\win32\91.0.4472.19\chromedriver.exe] found in cache
+INFO     Tests.test_carwale:test_carwale.py:26 selecting new car brand
+INFO     Pages.BasePage:BasePage.py:73 moving to element :-newcar_XPATH
+INFO     Pages.BasePage:BasePage.py:31 element clicking on :-findnewcar_XPATH
+INFO     Pages.BasePage:BasePage.py:31 element clicking on :-bmw_XPATH
+INFO     Tests.test_carwale:test_carwale.py:40 selecting car brand BMW
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 43.58 Lakh*****************Car title are:BMW 3 Series
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 66.54 Lakh*****************Car title are:BMW Z4
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 55.99 Lakh*****************Car title are:BMW 5 Series
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 37.90 Lakh*****************Car title are:BMW 2 Series Gran Coupe
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 95.84 Lakh*****************Car title are:BMW X7
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 1.38 Crore*****************Car title are:BMW 7 Series
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 51.50 Lakh*****************Car title are:BMW 3 Series Gran Limousine
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 67.90 Lakh*****************Car title are:BMW 6 Series GT
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 2.17 Crore*****************Car title are:BMW M8
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 57.50 Lakh*****************Car title are:BMW X3
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 76.47 Lakh*****************Car title are:BMW X5
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 66.46 Lakh*****************Car title are:BMW X4
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 1.31 Crore*****************Car title are:BMW 8 Series
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 1.95 Crore*****************Car title are:BMW X5 M
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 96.03 Lakh*****************Car title are:BMW X6
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-₹ 84.26 Lakh*****************Car title are:BMW M2
+INFO     Pages.CarBasePage:CarBasePage.py:18 Car Price are:-Avg. Ex-Showroom price*****************Car title are:BMW X3 M
+INFO     Tests.test_carwale:test_carwale.py:42 Car and Price details for BMW cars

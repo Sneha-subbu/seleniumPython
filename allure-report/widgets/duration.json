@@ -1,0 +1,81 @@
+[ {
+  "uid" : "b2c756919a48cc9d",
+  "name" : "test_gotoNewCar[chrome]",
+  "time" : {
+    "start" : 1622882152481,
+    "stop" : 1622882152481,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "445c20f6c8548144",
+  "name" : "test_NewCar[chrome-carbrand2]",
+  "time" : {
+    "start" : 1622882209376,
+    "stop" : 1622882219507,
+    "duration" : 10131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c841a86f0ebef675",
+  "name" : "test_NewCar[chrome-carbrand1]",
+  "time" : {
+    "start" : 1622882178676,
+    "stop" : 1622882199367,
+    "duration" : 20691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55078ae1bd3e247a",
+  "name" : "test_NewCar[chrome-carbrand0]",
+  "time" : {
+    "start" : 1622882160820,
+    "stop" : 1622882166327,
+    "duration" : 5507
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "928c891726b4ea4d",
+  "name" : "test_NewCar[firefox-carbrand1]",
+  "time" : {
+    "start" : 1622882259453,
+    "stop" : 1622882273790,
+    "duration" : 14337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f4413448ce140fd",
+  "name" : "test_gotoNewCar[firefox]",
+  "time" : {
+    "start" : 1622882152486,
+    "stop" : 1622882152486,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b35997ed964da875",
+  "name" : "test_NewCar[firefox-carbrand0]",
+  "time" : {
+    "start" : 1622882235492,
+    "stop" : 1622882239559,
+    "duration" : 4067
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c11a0ef460ae1a0",
+  "name" : "test_NewCar[firefox-carbrand2]",
+  "time" : {
+    "start" : 1622882289696,
+    "stop" : 1622882301637,
+    "duration" : 11941
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,333 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-4F5BNAL",
+    "children" : [ {
+      "name" : "4380-MainThread",
+      "children" : [ {
+        "name" : "test_NewCar[firefox-carbrand1]",
+        "uid" : "928c891726b4ea4d",
+        "parentUid" : "b5eff9e23cc95977c93a9cc8c50c6fa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622882259453,
+          "stop" : 1622882273790,
+          "duration" : 14337
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['BMW']", "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand2]",
+        "uid" : "445c20f6c8548144",
+        "parentUid" : "b5eff9e23cc95977c93a9cc8c50c6fa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622882209376,
+          "stop" : 1622882219507,
+          "duration" : 10131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['TATA']", "'chrome'" ]
+      }, {
+        "name" : "test_NewCar[firefox-carbrand2]",
+        "uid" : "9c11a0ef460ae1a0",
+        "parentUid" : "b5eff9e23cc95977c93a9cc8c50c6fa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622882289696,
+          "stop" : 1622882301637,
+          "duration" : 11941
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['TATA']", "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[firefox-carbrand0]",
+        "uid" : "b35997ed964da875",
+        "parentUid" : "b5eff9e23cc95977c93a9cc8c50c6fa8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622882235492,
+          "stop" : 1622882239559,
+          "duration" : 4067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Hundai']", "'firefox'" ]
+      }, {
+        "name" : "test_gotoNewCar[chrome]",
+        "uid" : "b2c756919a48cc9d",
+        "parentUid" : "b5eff9e23cc95977c93a9cc8c50c6fa8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1622882152481,
+          "stop" : 1622882152481,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'chrome'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand0]",
+        "uid" : "55078ae1bd3e247a",
+        "parentUid" : "b5eff9e23cc95977c93a9cc8c50c6fa8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622882160820,
+          "stop" : 1622882166327,
+          "duration" : 5507
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Hundai']", "'chrome'" ]
+      }, {
+        "name" : "test_gotoNewCar[firefox]",
+        "uid" : "3f4413448ce140fd",
+        "parentUid" : "b5eff9e23cc95977c93a9cc8c50c6fa8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1622882152486,
+          "stop" : 1622882152486,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand1]",
+        "uid" : "c841a86f0ebef675",
+        "parentUid" : "b5eff9e23cc95977c93a9cc8c50c6fa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622882178676,
+          "stop" : 1622882199367,
+          "duration" : 20691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['BMW']", "'chrome'" ]
+      } ],
+      "uid" : "b5eff9e23cc95977c93a9cc8c50c6fa8"
+    }, {
+      "name" : "4776-MainThread",
+      "children" : [ {
+        "name" : "test_gotoNewCar[chrome]",
+        "uid" : "30c19024863a6dcb",
+        "parentUid" : "a212b8e05d5c34eb7d8065943229a2c6",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1622880598460,
+          "stop" : 1622880598460,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'chrome'" ]
+      }, {
+        "name" : "test_gotoNewCar[firefox]",
+        "uid" : "1dddc2698e4f8a46",
+        "parentUid" : "a212b8e05d5c34eb7d8065943229a2c6",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1622880598475,
+          "stop" : 1622880598475,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand2]",
+        "uid" : "29558d012c54ebf2",
+        "parentUid" : "a212b8e05d5c34eb7d8065943229a2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622880658048,
+          "stop" : 1622880671039,
+          "duration" : 12991
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['TATA']", "'chrome'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand1]",
+        "uid" : "2e6bb529dadafe64",
+        "parentUid" : "a212b8e05d5c34eb7d8065943229a2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622880634003,
+          "stop" : 1622880645184,
+          "duration" : 11181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['BMW']", "'chrome'" ]
+      }, {
+        "name" : "test_NewCar[firefox-carbrand0]",
+        "uid" : "112a90425ce0f0aa",
+        "parentUid" : "a212b8e05d5c34eb7d8065943229a2c6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622880692931,
+          "stop" : 1622880694746,
+          "duration" : 1815
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Hundai']", "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[firefox-carbrand2]",
+        "uid" : "9e9fbc6029f28f88",
+        "parentUid" : "a212b8e05d5c34eb7d8065943229a2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622880748328,
+          "stop" : 1622880759336,
+          "duration" : 11008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['TATA']", "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand0]",
+        "uid" : "1a3f70afd7d9bc53",
+        "parentUid" : "a212b8e05d5c34eb7d8065943229a2c6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622880613695,
+          "stop" : 1622880616063,
+          "duration" : 2368
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Hundai']", "'chrome'" ]
+      }, {
+        "name" : "test_NewCar[firefox-carbrand1]",
+        "uid" : "97660e9ba6e0ff16",
+        "parentUid" : "a212b8e05d5c34eb7d8065943229a2c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622880716873,
+          "stop" : 1622880725524,
+          "duration" : 8651
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['BMW']", "'firefox'" ]
+      } ],
+      "uid" : "a212b8e05d5c34eb7d8065943229a2c6"
+    }, {
+      "name" : "12396-MainThread",
+      "children" : [ {
+        "name" : "test_NewCar[firefox-carbrand2]",
+        "uid" : "27aa0e99c93fdd2b",
+        "parentUid" : "c426cf443e87514459d1646d59d38289",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622881892951,
+          "stop" : 1622881902337,
+          "duration" : 9386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['TATA']", "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[firefox-carbrand0]",
+        "uid" : "804710515a67fbe0",
+        "parentUid" : "c426cf443e87514459d1646d59d38289",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622881843159,
+          "stop" : 1622881845150,
+          "duration" : 1991
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Hundai']", "'firefox'" ]
+      }, {
+        "name" : "test_gotoNewCar[chrome]",
+        "uid" : "d93fd5f88e6e812e",
+        "parentUid" : "c426cf443e87514459d1646d59d38289",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1622881755466,
+          "stop" : 1622881755466,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'chrome'" ]
+      }, {
+        "name" : "test_gotoNewCar[firefox]",
+        "uid" : "93dbddc82732d384",
+        "parentUid" : "c426cf443e87514459d1646d59d38289",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1622881755470,
+          "stop" : 1622881755470,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand0]",
+        "uid" : "1d86f6740a7b8873",
+        "parentUid" : "c426cf443e87514459d1646d59d38289",
+        "status" : "failed",
+        "time" : {
+          "start" : 1622881765422,
+          "stop" : 1622881770428,
+          "duration" : 5006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Hundai']", "'chrome'" ]
+      }, {
+        "name" : "test_NewCar[firefox-carbrand1]",
+        "uid" : "4a3de6446a9dc521",
+        "parentUid" : "c426cf443e87514459d1646d59d38289",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622881861340,
+          "stop" : 1622881877791,
+          "duration" : 16451
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['BMW']", "'firefox'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand2]",
+        "uid" : "48233156957e304f",
+        "parentUid" : "c426cf443e87514459d1646d59d38289",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622881808157,
+          "stop" : 1622881822056,
+          "duration" : 13899
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['TATA']", "'chrome'" ]
+      }, {
+        "name" : "test_NewCar[chrome-carbrand1]",
+        "uid" : "2dcdda42843d710a",
+        "parentUid" : "c426cf443e87514459d1646d59d38289",
+        "status" : "passed",
+        "time" : {
+          "start" : 1622881783687,
+          "stop" : 1622881795903,
+          "duration" : 12216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['BMW']", "'chrome'" ]
+      } ],
+      "uid" : "c426cf443e87514459d1646d59d38289"
+    } ],
+    "uid" : "f767ec7a891296e999c22192a5eaa087"
+  } ]
+}

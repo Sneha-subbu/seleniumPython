@@ -1,0 +1,6 @@
+INFO     WDM:logger.py:12 ====== WebDriver manager ======
+INFO     WDM:logger.py:12 Driver [C:\Users\ACER\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+INFO     Tests.test_carwale:test_carwale.py:26 selecting new car brand
+INFO     Pages.BasePage:BasePage.py:73 moving to element :-newcar_XPATH
+INFO     Pages.BasePage:BasePage.py:31 element clicking on :-findnewcar_XPATH
+INFO     Pages.BasePage:BasePage.py:31 element clicking on :-hundai_XPATH

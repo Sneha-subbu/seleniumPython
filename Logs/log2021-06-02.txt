@@ -1,0 +1,216 @@
+2021-06-02 21:51:02,006 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 21:51:03,084 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 21:51:11,592 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 21:51:13,832 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 21:51:13,833 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 21:55:43,291 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 21:55:45,335 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 21:55:52,757 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 21:55:55,256 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 21:55:55,256 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 21:57:57,566 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 21:57:59,400 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 21:58:02,766 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 21:58:04,865 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 21:58:04,866 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 21:58:21,176 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 21:58:22,232 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 21:58:37,827 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 21:58:38,486 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 21:58:42,904 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 21:58:44,849 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 21:59:13,332 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 21:59:14,842 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 21:59:16,332 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 21:59:18,957 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 21:59:18,958 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 21:59:45,500 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 21:59:45,982 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 21:59:46,723 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 21:59:48,675 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 21:59:48,676 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 21:59:48,676 - test_carwale.py:[39] - [INFO] - Car and Price details for BMW cars
+2021-06-02 22:01:53,842 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:01:57,288 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:01:57,882 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:02:00,077 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 22:02:00,077 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 22:02:16,377 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:02:16,954 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:02:19,075 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:02:21,624 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 22:02:21,624 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 22:02:21,626 - test_carwale.py:[39] - [INFO] - Car and Price details for BMW cars
+2021-06-02 22:08:14,752 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:08:19,076 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:08:19,625 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:08:21,672 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 22:08:21,673 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 22:10:47,409 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:10:48,018 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:10:52,876 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:10:53,154 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 22:10:53,154 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 22:10:57,087 - test_carwale.py:[35] - [INFO] - Car and Price details for Hyundai cars
+2021-06-02 22:11:16,882 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:11:17,647 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:11:18,407 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:11:23,337 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 22:11:23,337 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 22:11:23,338 - test_carwale.py:[39] - [INFO] - Car and Price details for BMW cars
+2021-06-02 22:11:36,948 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:11:37,664 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:11:38,267 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:11:42,072 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 22:12:06,857 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:12:07,807 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:12:10,525 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:12:12,717 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 22:12:12,717 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 22:12:15,854 - test_carwale.py:[35] - [INFO] - Car and Price details for Hyundai cars
+2021-06-02 22:12:37,242 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:12:38,795 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:12:40,331 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:12:42,295 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 22:12:42,295 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 22:12:42,296 - test_carwale.py:[39] - [INFO] - Car and Price details for BMW cars
+2021-06-02 22:13:05,336 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:13:06,783 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:13:08,696 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:13:11,002 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 22:17:18,646 - test_carwale.py:[19] - [INFO] - inside new car section
+2021-06-02 22:17:19,513 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:17:21,083 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:17:44,374 - test_carwale.py:[19] - [INFO] - inside new car section
+2021-06-02 22:17:45,002 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:17:47,300 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:18:02,420 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:18:03,228 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:18:03,879 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:18:07,581 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 22:18:07,581 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 22:18:30,887 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:18:36,656 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:18:37,523 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:18:39,659 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 22:18:39,660 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 22:18:39,671 - test_carwale.py:[39] - [INFO] - Car and Price details for BMW cars
+2021-06-02 22:18:53,201 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:18:53,926 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:18:57,944 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:19:00,760 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 22:19:35,510 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:19:36,039 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:19:36,838 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:19:38,717 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 22:19:38,718 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 22:20:07,031 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:20:07,420 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:20:08,315 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:20:09,818 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 22:20:09,818 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 22:20:09,818 - test_carwale.py:[39] - [INFO] - Car and Price details for BMW cars
+2021-06-02 22:20:37,669 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:20:38,172 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:20:38,838 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:20:42,471 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 22:23:33,493 - test_carwale.py:[19] - [INFO] - inside new car section
+2021-06-02 22:23:37,193 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:23:37,759 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:24:00,061 - test_carwale.py:[19] - [INFO] - inside new car section
+2021-06-02 22:24:01,780 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:24:02,922 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:24:23,925 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:24:24,237 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:24:24,686 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:24:26,603 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 22:24:26,603 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 22:24:30,130 - test_carwale.py:[35] - [INFO] - Car and Price details for Hyundai cars
+2021-06-02 22:24:46,352 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:24:46,996 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:24:47,721 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:24:51,238 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 22:24:51,238 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 22:24:51,238 - test_carwale.py:[39] - [INFO] - Car and Price details for BMW cars
+2021-06-02 22:25:06,124 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:25:07,069 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:25:10,950 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:25:13,297 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 22:25:39,303 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:25:40,374 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:25:42,105 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:25:44,183 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 22:25:44,184 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 22:25:47,256 - test_carwale.py:[35] - [INFO] - Car and Price details for Hyundai cars
+2021-06-02 22:26:08,575 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:26:10,109 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:26:11,679 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:26:13,711 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 22:26:13,712 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 22:26:13,712 - test_carwale.py:[39] - [INFO] - Car and Price details for BMW cars
+2021-06-02 22:26:35,277 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 22:26:36,384 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 22:26:38,277 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 22:26:41,212 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 23:04:36,597 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:04:38,504 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:04:41,260 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:04:43,634 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 23:04:43,634 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 23:04:47,033 - test_carwale.py:[35] - [INFO] - Car and Price details for Hyundai cars
+2021-06-02 23:05:08,195 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:05:09,845 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:05:13,001 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:05:15,580 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 23:05:15,580 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 23:05:21,991 - test_carwale.py:[40] - [INFO] - Car and Price details for BMW cars
+2021-06-02 23:05:44,402 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:05:47,441 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:05:48,070 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:05:51,349 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 23:06:23,559 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:06:25,135 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:06:26,845 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:06:28,790 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 23:06:28,790 - test_carwale.py:[33] - [INFO] - selecting Hundaicar
+2021-06-02 23:06:32,162 - test_carwale.py:[35] - [INFO] - Car and Price details for Hyundai cars
+2021-06-02 23:07:03,133 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:07:03,754 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:07:04,871 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:07:06,709 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 23:07:06,709 - test_carwale.py:[38] - [INFO] - selecting car brand BMW
+2021-06-02 23:07:12,256 - test_carwale.py:[40] - [INFO] - Car and Price details for BMW cars
+2021-06-02 23:07:36,408 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:07:37,181 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:07:39,529 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:07:41,830 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 23:27:57,488 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:27:58,103 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:27:58,563 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:28:02,694 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 23:28:23,772 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:28:24,313 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:28:25,062 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:28:29,688 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 23:28:29,688 - test_carwale.py:[40] - [INFO] - selecting car brand BMW
+2021-06-02 23:28:36,464 - CarBasePage.py:[18] - [INFO] - Car Price are:-Avg. Ex-Showroom price*****************Car title are:BMW X3 M
+2021-06-02 23:28:36,465 - test_carwale.py:[42] - [INFO] - Car and Price details for BMW cars
+2021-06-02 23:28:55,320 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:28:59,068 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:28:59,874 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:29:02,466 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
+2021-06-02 23:29:33,380 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:29:33,983 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:29:34,723 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:29:36,597 - BasePage.py:[31] - [INFO] - element clicking on :-hundai_XPATH
+2021-06-02 23:29:59,985 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:30:00,908 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:30:02,972 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:30:06,354 - BasePage.py:[31] - [INFO] - element clicking on :-bmw_XPATH
+2021-06-02 23:30:06,355 - test_carwale.py:[40] - [INFO] - selecting car brand BMW
+2021-06-02 23:30:12,806 - CarBasePage.py:[18] - [INFO] - Car Price are:-Avg. Ex-Showroom price*****************Car title are:BMW X3 M
+2021-06-02 23:30:12,806 - test_carwale.py:[42] - [INFO] - Car and Price details for BMW cars
+2021-06-02 23:30:38,166 - test_carwale.py:[26] - [INFO] - selecting new car brand
+2021-06-02 23:30:39,934 - BasePage.py:[73] - [INFO] - moving to element :-newcar_XPATH
+2021-06-02 23:30:42,077 - BasePage.py:[31] - [INFO] - element clicking on :-findnewcar_XPATH
+2021-06-02 23:30:44,262 - BasePage.py:[31] - [INFO] - element clicking on :-tata_XPATH
